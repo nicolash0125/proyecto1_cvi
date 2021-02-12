@@ -2,7 +2,7 @@
 ## Una escena procedimental, propia y compleja
 ### Realizado por: Nicolás Hernández Siachoque - 201716434
 
-Para este proyecto se empleo la herramienta Blender.
+Para este proyecto se empleo la herramienta Blender. El archivo script_proy1 es el que contiene el código en python que crea las primitivas y las transforma para construir la escena
 
 La escena es una representación de la Universidad de los Andes.
 ![Universidad](https://github.com/nicolash0125/proyecto1_cvi/raw/main/uni.jpeg)
