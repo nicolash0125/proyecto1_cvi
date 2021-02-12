@@ -3,11 +3,11 @@
 ### Realizado por: Nicolás Hernández Siachoque - 201716434
 
 Para este proyecto se empleo la herramienta Blender. El archivo script_proy1 es el que contiene el código en python que crea las primitivas y las transforma para construir la escena
-
+- Video: https://youtu.be/70M66XlnzZI
 La escena es una representación de la Universidad de los Andes.
 ![Universidad](https://github.com/nicolash0125/proyecto1_cvi/raw/main/uni.jpeg)
 Primero se realiza el suelo y las calles por medio de cubos con anchos angostos
-- Video: https://youtu.be/70M66XlnzZI
+
 
 Luego se realiza la construcción del edificio ML empleando cubos que se transforman en sus dimensiones con un marco local de referencia. Son transladados a la ubicación correspondiente. En el techo del edificio se encuentran unas tuberias realizadas con cilindros. Al frente del edificio se encuentran las banderas que constan de un mastil cilindrico rematado por una esfera. Las banderas son rotadas respecto al eje Z de tal manera que no se crucen entre ellas. Tambien se encuentran 7 estudiantes. Un estudiante está conformado de 2 cilindros para las piernas, un cilindro para los brazos, un cubo para el cuerpo y una esfera para la cabeza. Solo se define la translación para el marco global del primer estudiante, ya que en el ciclo, se realizan transformaciones en el marco local con el fin de ubicar los estudiantes restantes, respecto al principal.
 ![Edificio Ml](https://github.com/nicolash0125/proyecto1_cvi/raw/main/ml.jpeg)
