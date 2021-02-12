@@ -3,7 +3,7 @@
 ### Realizado por: Nicolás Hernández Siachoque - 201716434
 
 Para este proyecto se empleo la herramienta Blender. El archivo script_proy1 es el que contiene el código en python que crea las primitivas y las transforma para construir la escena
-- Video: https://youtu.be/70M66XlnzZI
+- Video largo: https://youtu.be/70M66XlnzZI
 
 
 La escena es una representación de la Universidad de los Andes.
